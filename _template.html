@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Wallpapers</title>
+    <style media="screen">
+      body{
+        font-family: Roboto, Arial, sans-serif;
+        text-align: center;
+      }
+
+      .image{
+        max-width: 1000px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+      }
+
+      .image a img{
+        max-width: 1000px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        transition: box-shadow .1s;
+        -webkit-transition: box-shadow .1s;
+      }
+
+      .image a img:hover{
+        box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My Wallpapers!</h1>
+
+    <div class="content">
+      <p>
+        The wallpapers I am currently using. Click on one to
+        view it in a larger size. CTRL + S from that page
+        to save!
+      </p>
+
+      {{#wallpapers}}
+        <div class="animated fadeInBottom image">
+          <a href="{{image}}">
+            <img src="{{image}}"></img>
+          </a>
+        </div>
+      {{/wallpapers}}
+    </div>
+  </body>
+</html>
