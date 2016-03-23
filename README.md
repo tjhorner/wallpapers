@@ -27,7 +27,7 @@ Some wallpapers I'm currently using.
 
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl5.png)
 
-  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylAnthro.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylEQG.png)
 
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylxOctavia.png)
 
