@@ -28,17 +28,17 @@ mu.compileAndRender("_template.html", { wallpapers: wallpapers })
     final += data;
   })
   .on("end", function(){
-    fs.writeFile("index.html", final);
-  });
+    fs.writeFileSync("index.html", final);
 
-final = "";
+    final = "";
 
-mu.compileAndRender("_template.md", { wallpapers: wallpapers })
-  .on("data", function(data){
-    final += data;
-  })
-  .on("end", function(){
-    fs.writeFile("README.md", final);
+    mu.compileAndRender("_template.md", { wallpapers: wallpapers })
+      .on("data", function(data){
+        final += data;
+      })
+      .on("end", function(){
+        fs.writeFileSync("README.md", final);
+      });
   });
 
 console.log("Done");
