@@ -3,33 +3,33 @@
 Some wallpapers I'm currently using.
 
 
-  ![](https://tjhorner.com/wallpapers/Deadpinkie.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Deadpinkie.png)
 
-  ![](https://tjhorner.com/wallpapers/Lyra.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Lyra.png)
 
-  ![](https://tjhorner.com/wallpapers/Octavia.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Octavia.png)
 
-  ![](https://tjhorner.com/wallpapers/Octavia2.jpeg)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Octavia2.jpeg)
 
-  ![](https://tjhorner.com/wallpapers/RD.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/RD.png)
 
-  ![](https://tjhorner.com/wallpapers/RDAnthro.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/RDAnthro.png)
 
-  ![](https://tjhorner.com/wallpapers/Twi.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Twi.png)
 
-  ![](https://tjhorner.com/wallpapers/Vinyl.jpeg)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl.jpeg)
 
-  ![](https://tjhorner.com/wallpapers/Vinyl2.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl2.png)
 
-  ![](https://tjhorner.com/wallpapers/Vinyl3.jpg)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl3.jpg)
 
-  ![](https://tjhorner.com/wallpapers/Vinyl4.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl4.png)
 
-  ![](https://tjhorner.com/wallpapers/Vinyl5.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl5.png)
 
-  ![](https://tjhorner.com/wallpapers/VinylAnthro.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylAnthro.png)
 
-  ![](https://tjhorner.com/wallpapers/VinylxOctavia.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylxOctavia.png)
 
-  ![](https://tjhorner.com/wallpapers/VinylxOctavia2.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylxOctavia2.png)
 

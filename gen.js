@@ -18,7 +18,7 @@ console.log("Found", results.length, "wallpapers to include");
 var wallpapers = [];
 
 results.forEach(function(result){
-  wallpapers.push({ image: "https://tjhorner.com/wallpapers/" + result });
+  wallpapers.push({ image: "https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/" + result });
 });
 
 var final = "";
