@@ -17,6 +17,8 @@ Some wallpapers I'm currently using.
 
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Lyra.png)
 
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/MECWallRun.jpg)
+
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Octavia.png)
 
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Octavia2.jpeg)
@@ -39,7 +41,7 @@ Some wallpapers I'm currently using.
 
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/Vinyl6.jpg)
 
-  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylAnthro.png)
+  ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylEQG.png)
 
   ![](https://raw.githubusercontent.com/tjhorner/wallpapers/gh-pages/VinylxOctavia.png)
 
